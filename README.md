@@ -1,8 +1,6 @@
 # AboutMe
-[whoami]
-## Who am I?
+## [Who am I?](#whoami)
 **Yin Guan**, *a senior in University of Missouri*
-[selfintro]
 ## Self Introduction
 
 ![Favourite Player](https://www.biography.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTcwMDIzMzg3MjQwODY3NDAx/gettyimages-521051018.webp)
