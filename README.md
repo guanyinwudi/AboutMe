@@ -28,4 +28,4 @@ The picture can be found in <https://www.biography.com/athlete/kobe-bryant>.
 The picture can be found in <https://www.biography.com/athlete/kobe-bryant>.
 
 
-[link to whoami](#who-am-i?)
+[link to whoami](#who-am-i)
