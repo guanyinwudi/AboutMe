@@ -15,4 +15,4 @@ The picture can be found in <https://www.biography.com/athlete/kobe-bryant>.
 
 
 
-[link to whoami](#"Who am I?")
+[link to whoami](#who-am-i?)
